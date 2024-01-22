@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Isa!
 
 Welcome to my GitHub profile! I'm immersed in the fascinating world of Artificial Intelligence, app development, and operating systems.
 
