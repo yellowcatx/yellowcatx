@@ -1,4 +1,4 @@
-# Hello, im izzy! 🌍
+# Hello, im izzy! 
 
 ## About Me 🚀
 
