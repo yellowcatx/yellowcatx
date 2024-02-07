@@ -1,8 +1,12 @@
-# Hi there! 👋
+# Hello World! 🌍
 
-## About Me
+## About Me 🚀
 
-I'm a beginner student and developer from [Brazil]. Currently, I'm exploring the world of programming and building projects in my spare time. I'm eager to learn and grow as a developer, and I'm excited about the journey ahead!
+I'm a quirky student and aspiring developer from [Your Location]. I spend my spare time building wacky projects and learning to code. If you find me, I'm probably sipping coffee ☕ while attempting to crack some cryptic code! 💻
+
+## Wild GitHub Stats 📊
+
+![Your Wild GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-yellowcatx&show_icons=true&theme=radical)
 
 
-Feel free to connect with me and explore my projects. Let's learn and grow together!
+Feel free to connect with me and explore my crazy projects. Let's learn and have fun together! 🚀
